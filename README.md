@@ -17,7 +17,7 @@ ctrl + k + t = seus temas
 --------------COMANDOS BÁSICOS------------------
 
 
-cd = change directory
+cd = change directory <br>
 como navegar no terminal do git?
 ls = mostrar elementos
 clear = limpar
